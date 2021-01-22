@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="activity_name_classification">PAK Currency Detect</string>
+    <string name="activity_name_detection">TFL Detect</string>
+    <string name="activity_name_speech">TFL Speech</string>
+</resources>
