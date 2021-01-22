@@ -45,7 +45,7 @@ Clone the TensorFlow examples GitHub repository to your computer to get the demo
 application.
 
 ```
-https://github.com/AndroidArena/CurrencyDetectorAndroid.git
+https://github.com/Zaryab-Programmer/Pakistan_Currency_Detection_App/
 ```
 
 Open the TensorFlow source code in Android Studio. To do this, open Android
