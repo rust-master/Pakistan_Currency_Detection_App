@@ -1,4 +1,4 @@
-# Android Currency Detector App using TensorFlow Lite image classification
+# Android App Pakistani Currency Detector App using TensorFlow Lite image classification
 
 ## Overview
 
